@@ -5,4 +5,4 @@ This repository is to create qq plot that comparing quantiles of GDP of Beijing 
 
 **1. QQ Plot Result**
 
-<img src="qq-plot.png" width="700"><br />
+<img src="qq_plot.png" width="700"><br />
